@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <students>
+    
+        <student type="Grado superior">
+            <name>Jaume</name>
+            <surname>Furriols</surname>
+            <email>jfurriol20@jaumebalmes.net</email>
+            <dni>12345678J</dni>
+        </student>
+        <student type="Grado superior">
+            <name>Pedro</name>
+            <surname>Fernandez</surname>
+            <email>ffernandez20@jaumebalmes.net</email>
+            <dni>75754631S</dni>
+        </student>
+        <student type="Grado superior">
+            <name>Roc</name>
+            <surname>Bigas</surname>
+            <email>rbigas20@jaumebalmes.net</email>
+            <dni>74635241U</dni>
+        </student>
+        <student type="Grado superior">
+            <name>David</name>
+            <surname>Ares</surname>
+            <email>dares20@jaumebalmes.net</email>
+            <dni>87654321G</dni>
+        </student>
+        <student type="Grado superior">
+            <name>Pau</name>
+            <surname>insa</surname>
+            <email>pinsa20@jaumebalmes.net</email>
+            <dni>35262123E</dni>
+        </student>
+    </students>
