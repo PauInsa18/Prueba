@@ -1,0 +1,36 @@
+{"BOOKSTORE":{
+    "BOOK":[
+        {
+
+            "Title": "LOS TRES MOSQUETEROS",
+            "Publisher": "ALEJANDRO DUMAS",
+            "Cover": "LOS TRES MOSQUETEROS Y EL GATO",
+            "price": "12"
+        },
+        {
+
+            "Title": "EL GATO CON BOTAS",
+            "Publisher": "CHARLES PERRAUT",
+            "Cover": "EL GATO CON BOTAS JUNTO CON EL RATON CON BOTAS",
+            "price": "16"
+    
+        },
+        {
+
+            "Title": "DRACULA ",
+            "Publisher": "BRAM STOKER",
+            "Cover": "DRACULA Y LOS LICANTROPOS",
+            "price": "10"
+    
+        },
+        {
+
+            "Title": "EL EXORCISTA",
+            "Publisher": "WILLIAM PETER",
+            "Cover": "EXORCISTA Y EL DUENDE",
+            "price": "8"
+    
+        }
+    ]
+}}
+
