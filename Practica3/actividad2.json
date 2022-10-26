@@ -1,0 +1,35 @@
+{"STUDENTS":{
+    "STUDENT":[
+        {
+
+            "NAME": "JAUME",
+            "SURNAME": "FURRIOLS",
+            "EMAIL": "jfurriols20@jaumebalmes.net",
+            "DNI": "12345678J"
+        },
+        {
+
+            "NAME": "PEDRO",
+            "SURNAME": "FERNANDEZ",
+            "EMAIL": "fFernandez20@jaumebalmes.net",
+            "DNI": "75753631S"
+    
+        },
+        {
+
+            "NAME": "ROC",
+            "SURNAME": "BIGAS",
+            "EMAIL": "rbigas20@jaumebalmes.net",
+            "DNI": "74635241U"
+    
+        },
+        {
+
+            "NAME": "PAU",
+            "SURNAME": "INSA",
+            "EMAIL": "pinsa20@jaumebalmes.net",
+            "DNI": "35262123E"
+    
+        }
+    ]
+}}
