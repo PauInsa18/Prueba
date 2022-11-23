@@ -1,0 +1,35 @@
+#div1{
+    width: 160px;
+    height: 120px;
+    background-color: yellow;
+    padding-left: 20px;
+    margin-left: 20px;
+    margin-top: 40px;
+    position: relative;
+    z-index: 1;
+}
+#div2{
+    width: 40px;
+    height: 40px;
+    background-color: blue;
+    margin-left: 40px;
+    bottom: 105px;
+    position: relative;
+    z-index: 2;
+}
+#div3{
+    width: 160px;
+    height: 120px;
+    background-color: green;
+    margin-left: 120px;
+    top: 140px;
+    position: absolute;
+    
+}
+#div4{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    margin-left: 220px;
+    position: absolute;
+}
