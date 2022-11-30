@@ -1,0 +1,17 @@
+header{
+    display: flex;
+    flex-direction:row-reverse;
+    height: 80px;
+    
+}
+#logo{
+    text-align:center ;
+}
+
+#jaume{
+    float: left;
+}
+.dni{
+    width: 70px;
+    height: 70px;
+}
