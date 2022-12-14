@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <BOOKSTORE>
+    
+        <BOOK type="TERROR">
+            <Title>Los tres mosqueteros</Title>
+            <Publisher>Alejandro Dumas</Publisher>
+            <cover>Los tres mosqueteros y el gato</cover>
+            <price>12</price>
+        </BOOK>
+        <BOOK type="AVENTURA">
+            <Title>El gato con botas</Title>
+            <Publisher>Charles Perraut</Publisher>
+            <cover>El gato con botas y el raton con botas</cover>
+            <price>16</price>
+        </BOOK>
+        <BOOK type="TERROR">
+            <Title>Dracula</Title>
+            <Publisher>Bram stoker</Publisher>
+            <cover>Dracula y los licantropos</cover>
+            <price>10</price>
+        </BOOK>
+        <BOOK type="TERROR">
+            <Title>El exorcista</Title>
+            <Publisher>William Peter</Publisher>
+            <cover>EL exorcista y el duende</cover>
+            <price>8</price>
+        </BOOK>
+    </BOOKSTORE>

@@ -1,0 +1,30 @@
+div{
+    text-align: center;
+    margin-left: 38%;
+    margin-top: 20%;
+}
+caption{
+    border: 1px solid black;
+    width: 510px;
+    background-color: aqua;
+}
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td:hover{
+    color: fuchsia;
+    background-color: chartreuse;
+}
+th{
+    padding:2px;
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+    padding: 5px;
+}
+th:hover{
+    color: red;
+    background-color: blue;
+}
