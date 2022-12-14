@@ -4,14 +4,49 @@ header{
     height: 80px;
     
 }
+input{
+    background-color: blue;
+    color: aliceblue;
+}
 #logo{
     text-align:center ;
 }
 
 #jaume{
     float: left;
+    margin-right: 60px;
+    text-align: center;
+    margin-left: 400px;
+    list-style: none;
+}
+#pau{
+    text-align: center;
+    float: left;
+    list-style: none;
+}
+#divj{
+    display: flexbox;
+}
+#divp{
+    display: flexbox;
 }
 .dni{
-    width: 70px;
-    height: 70px;
+    width: 100px;
+    height: 100px;
+}
+footer{
+    bottom: 0;
+    position: absolute;
+}
+#ipe{
+    float: left;
+}
+#pcc{
+    float: left;
+    margin-left: 1620px;
+}
+a{
+    text-decoration: none;
+    margin-right: 20px;
+    color: black;
 }
