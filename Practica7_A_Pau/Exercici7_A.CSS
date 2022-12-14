@@ -1,0 +1,40 @@
+/* EMPEZAMOS CON EL PRIMER CUARDADO EL AZUL*/
+#primero{
+    z-index: 1;
+    background-color: blue;
+    width: 160px;
+    height: 120px;
+    margin-top: 40px;
+    margin-left: 20px;
+    position: relative;
+
+}
+/* CONTIUNAMOS CON EL CUARDADO AMARILLO*/
+#segundo{
+    z-index: 2;
+    background-color: yellow;
+    width: 40px;
+    height: 40px;
+    top: 20px;
+    margin-left: 20px;
+    position: relative;
+
+}
+/* SEGUIMOS CON EL CUDRADO ROJO*/
+#tercero{
+    position:relative;
+    background-color: red;
+    width: 160px;
+    height: 120px;
+    left: 100px;
+    bottom: 20px;
+}
+/* Y POR ULTIMO ACABAMOS CON EL CURADDO VERDE*/
+#cuarto{
+    position: relative;
+    background-color: green;
+    width: 40px;
+    height: 40px;
+    top: 60px;
+    left: 100px;
+}
